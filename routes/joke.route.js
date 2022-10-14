@@ -1,10 +1,11 @@
 import express from 'express';
-import { getJokes, addJoke } from '../controllers/joke.controller.js';
+import { getJoke, getJokes, addJoke } from '../controllers/joke.controller.js';
 
 
 const router = express.Router();
 
 router.get('/', getJokes);
+router.get('/rnd', getJoke);
 router.post('/', addJoke);
 
 
