@@ -6,7 +6,7 @@ export const getJoke = async (req, res) => {
     try {
         Joke.count().exec((err, count) => {
             Joke.findOne().skip(getRandom(count)).exec((err, result) => {
-                return res.status(201).json(result)
+                return res.status(200).json(result)
             })
         })
     } catch (error) {      
