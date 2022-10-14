@@ -1,0 +1,119 @@
+[
+    {
+        "category": "misc",
+        "age": "all",
+        "lang": "es",
+        "type": "single",
+        "story": "-Profesora, ¿qué quiere decir 'why'?  -¿Por qué?  -Por saberlo"
+    },
+    {
+        "category": "misc",
+        "age": "all",
+        "lang": "es",
+        "type": "twopart",
+        "story": "¿Sabes que mi hermano anda en bicicleta desde los cuatro años?",
+        "delivery": "Pues anda que debe de estar ya lejos."
+    },
+    {
+        "category": "misc",
+        "age": "all",
+        "lang": "es",
+        "type": "twopart",
+        "story": "Papá, ¿qué se siente tener un hijo tan guapo?",
+        "delivery": "No sé hijo, pregúntale a tu abuelo..."
+    },
+    {
+        "category": "misc",
+        "age": "all",
+        "lang": "es",
+        "type": "single",
+        "story": "No te despedirán del trabajo, si nunca comentas tu código y además eres el único que sabe cómo funciona"
+    },
+    {
+        "category": "misc",
+        "age": "all",
+        "lang": "es",
+        "type": "twopart",
+        "story": "¿Qué se necesita para encender una vela?",
+        "delivery": "Que esté apagada"
+    },
+    {
+        "category": "misc",
+        "age": "all",
+        "lang": "es",
+        "type": "twopart",
+        "story": "¿Qué le dice una pared a otra pared?",
+        "delivery": "Nos vemos en la esquina."
+    },
+    {
+        "category": "misc",
+        "age": "all",
+        "lang": "es",
+        "type": "twopart",
+        "story": "¿Por qué lloraba el libro de matemáticas?",
+        "delivery": "¡Porque tenía muchos problemas!"
+    },
+    {
+        "category": "misc",
+        "age": "all",
+        "lang": "es",
+        "type": "twopart",
+        "story": "¿Por qué las cigüeñas encojen una pata para dormir? ",
+        "delivery": "Porque si encogen las dos se caerían."
+    },
+    {
+        "category": "misc",
+        "age": "all",
+        "lang": "es",
+        "type": "twopart",
+        "story": "¿Sabes en qué se parece una niña y un tren? ",
+        "delivery": "Que la niña tiene trenzas y el tren… ¡zas! y se metió en el túnel."
+    },
+    {
+        "category": "misc",
+        "age": "all",
+        "lang": "es",
+        "type": "twopart",
+        "story": "¿Qué animal puede saltar más alto que una casa?  ",
+        "delivery": "Cualquiera, porque las casas no saltan."
+    },
+    {
+        "category": "misc",
+        "age": "all",
+        "lang": "es",
+        "type": "twopart",
+        "story": "¿Cuál es el colmo más pequeño? ",
+        "delivery": "El colmillo."
+    },
+    {
+        "category": "misc",
+        "age": "all",
+        "lang": "es",
+        "type": "single",
+        "story": "Había una vez un niño que tenía la boca tan pequeña, pero tan pequeña; que para decir tres, tenía que decir: “uno, uno, uno”. "
+    },
+    {
+        "category": "misc",
+        "age": "all",
+        "lang": "es",
+        "type": "twopart",
+        "story": "¿Cómo se dice pañuelo en japonés? ",
+        "delivery": "Sacamoko"
+    },
+    {
+        "category": "misc",
+        "age": "all",
+        "lang": "es",
+        "type": "twopart",
+        "story": "Papá, ¿hay gelatina? ",
+        "delivery": "Pues que yo sepa nada más que existe la 'i latina' y la 'y griega'."
+    },
+    {
+        "category": "misc",
+        "age": "all",
+        "lang": "es",
+        "type": "twopart",
+        "story": "La M con la A suena MA, ¿y si le pones una tilde?",
+        "delivery": "¡Matilde!"
+    }
+]
