@@ -29,7 +29,7 @@ app.use(express.json());
 app.use(cookieParser());
 
 app.use("/api/v1/auth", userRouter);
-app.use("/api/v1/joke", jokeRouter);
+app.use("/api/v1/jokes", jokeRouter);
 
 const PORT = process.env.PORT || 5000;
 
